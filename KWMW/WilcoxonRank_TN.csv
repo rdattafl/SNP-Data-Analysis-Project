@@ -1,0 +1,29 @@
+Algorithm 1,Algorithm 2,Statistic,P-Value,Sig(*)
+Naive Bayes,Decision Tree,0.0,0.001953125,*
+Naive Bayes,Random Forest,8.0,0.15102615479062906,
+Naive Bayes,Gradient Boosting,10.5,0.14966364955348913,
+Naive Bayes,LGB,6.0,0.048796126392049534,*
+Naive Bayes,eLCS,0.0,0.001953125,*
+Naive Bayes,XCS,0.0,0.001953125,*
+Naive Bayes,ExSTraCS,0.0,0.001953125,*
+Decision Tree,Random Forest,0.0,0.001953125,*
+Decision Tree,Gradient Boosting,0.0,0.001953125,*
+Decision Tree,LGB,0.0,0.001953125,*
+Decision Tree,eLCS,8.5,0.09632067516219299,
+Decision Tree,XCS,2.0,0.005859375,*
+Decision Tree,ExSTraCS,7.5,0.037109375,*
+Random Forest,Gradient Boosting,15.5,0.7226744573158725,
+Random Forest,LGB,6.0,0.338724147759658,
+Random Forest,eLCS,0.0,0.001953125,*
+Random Forest,XCS,0.0,0.001953125,*
+Random Forest,ExSTraCS,0.0,0.001953125,*
+Gradient Boosting,LGB,5.5,0.29317745956451147,
+Gradient Boosting,eLCS,0.0,0.001953125,*
+Gradient Boosting,XCS,0.0,0.001953125,*
+Gradient Boosting,ExSTraCS,0.0,0.001953125,*
+LGB,eLCS,0.0,0.001953125,*
+LGB,XCS,0.0,0.001953125,*
+LGB,ExSTraCS,0.0,0.001953125,*
+eLCS,XCS,25.0,0.845703125,
+eLCS,ExSTraCS,1.0,0.00390625,*
+XCS,ExSTraCS,1.0,0.01051714807334924,*
